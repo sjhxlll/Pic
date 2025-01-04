@@ -1,2 +1,2 @@
-# PicGo
-图床
+# Pic
+picture
